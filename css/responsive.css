@@ -14,7 +14,7 @@
         background-position-x: -200px;
     }
     
-    .hero .bottom {
+    .hero .button {
         margin-bottom: 150px;
     }
 }
@@ -43,7 +43,7 @@
         background-position-x: -80px;
     }
 
-    .hero .bottom {
+    .hero .button {
         margin-bottom: 150px;
     }
     
@@ -169,7 +169,7 @@
         height: 40vh;
     }
 
-    #sec-2 .bottom {
+    #sec-2 .button {
         margin: 0;
     }
     #sec-2 .content-sec2 h3 {
