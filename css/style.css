@@ -77,8 +77,8 @@ li {
     text-decoration: none;
 }
 
-/* Bottom */
-.bottom {
+/* Button */
+.button {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -89,11 +89,11 @@ li {
     margin-top: 20px;
 }
 
-.bottom:hover {
+.button:hover {
     background-color: #d19509;
 }
 
-.text-bottom {
+.text-button {
     text-transform: uppercase;
     font-weight: 700;
     color: #FFF;
@@ -592,5 +592,3 @@ footer p {
     border-style: none;
     text-decoration: underline;
 }
-
-
